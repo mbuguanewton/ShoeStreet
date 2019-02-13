@@ -1,0 +1,22 @@
+{
+  "name": "shoe-street",
+  "version": "1.0.0",
+  "description": "shoe ecommerce website",
+  "main": "index.js",
+  "scripts": {
+    "test": "run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newtfrank/ShoeStreet.git"
+  },
+  "author": "Newton Mbugua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newtfrank/ShoeStreet/issues"
+  },
+  "homepage": "https://github.com/newtfrank/ShoeStreet#readme",
+  "dependencies": {
+    "eslint": "^5.13.0"
+  }
+}
